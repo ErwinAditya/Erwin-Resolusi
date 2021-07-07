@@ -5,7 +5,7 @@ Rencana Erwin kedepannya
 -Angular Js
 -Node Js
 -CodeIgneter
- *CI 3 dan CI 4
+ * CI 4
 -Laravel
  * Laravel 8
 -Python

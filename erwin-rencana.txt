@@ -3,5 +3,6 @@ Rencana Erwin kedepannya
 -React JS
 -Node Js
 -CodeIgneter
-CI 3 dan CI 4
+ *CI 3 dan CI 4
 -Laravel
+ * Laravel 8

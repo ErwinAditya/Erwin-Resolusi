@@ -2,6 +2,7 @@ Rencana Erwin kedepannya
 
 -React JS
 -Vue Js
+-Angular Js
 -Node Js
 -CodeIgneter
  *CI 3 dan CI 4
